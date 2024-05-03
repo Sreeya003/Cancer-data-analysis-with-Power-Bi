@@ -15,7 +15,7 @@ cancer-deaths-rate-and-age-standardized-rate-index
 Five interactive dashboards are created using Power BI, providing insights into various aspects of the data:** 
 
 **Dashboard 1: Global Deaths by Year** 
-Filter by year using a slicer. 
+Filter by year using a slicer.  
 Stacked column chart shows the sum of deaths by year. 
 Cards display the total and average deaths across all ages. 
 Q&A card allows users to ask questions about the data. 
