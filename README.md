@@ -9,6 +9,7 @@ Here we have taken 4 files
 
 
 5 Interactive Dashboards using Power Bi have been created.
+
 Dashboard 1 contains:
 Slicer is inserted where the values of year are given which can be used as a filter to know which year data is required.
 A stacked column chart was made which compares the sum of deaths yearwise.
@@ -16,6 +17,12 @@ A stacked column chart was made which compares the sum of deaths yearwise.
 A Q&A card is created to answer different question regarding the data.
 A number of death in each country is indicated by using a map. By clicking on the country the values in the graph and cards will be changed country-wise.
 
-Dashboard 2 contains a line chart which indicates the sum of deaths (age wise) . 4 charts have been made in which between the age of under 5, 5-14, 15-49, 50-69, 70+ years.
+Dashboard 2 contains a line chart which indicates the sum of deaths (age wise) . 4 charts have been made in which between the age of 5-14, 15-49, 50-69, 70+ years.
 
-Dashboard 3 contains yearly data of people affected with cancer according to their ages. 5 stacked column charts have been created.
+Dashboard 3 contains yearly data of people affected with cancer according to their ages. 5 stacked column charts have been created for ages age of under 5, 5-14, 15-49, 50-69, 70+ years.
+
+Dashboard 4 contains an area chart Comparison between people affected with cancer under the age of 5 and above the age of 70.
+
+Dashboard 5 contains 6 stacked area charts 
+
+
