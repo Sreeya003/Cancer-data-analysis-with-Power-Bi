@@ -32,7 +32,7 @@ Five stacked column charts represent age groups: under 5, 5-14, 15-49, 50-69, an
 **Dashboard 4: Cancer Cases Comparison**  
 Area chart compares the number of people affected with cancer under 5 and above 70.  
 
-**Dashboard 5: Multi-Year Cancer Analysis by Age **  
+**Dashboard 5: Multi-Year Cancer Analysis by Age**  
 Explores trends through six stacked area charts, each focusing on a specific age group.  
 
 **Further Exploration:**  
