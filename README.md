@@ -1,5 +1,5 @@
 **Project: Cancer and Deaths Data Analysis with Power BI**  
-This repository contains code and resources for creating interactive Power BI dashboards to analyze cancer and deaths data from 1990 to 2019 (globally).  
+This repository contains code and resources for creating interactive Power BI dashboards to analyze cancer and deaths data from 1990 to 2019 (globally). We have filtered it from 2000-2019.
 
 **Data Source:**  
 The data set is from Kaggle: Cancer and Deaths Dataset (1990-2019) Globally: https://www.kaggle.com/datasets/belayethossainds/cancer-and-deaths-dataset-19902019-globally  
